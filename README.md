@@ -10,9 +10,6 @@ I am a Backend Developer specialized in the Python Django framework. I am an exp
 - Digital Marketing (SEO, Meta Ads)
 - HTML, CSS, Bootstrap 5, JavaScript
 
-## Projects
-- [Project 1 Name](link-to-project-1) - Brief description of the project.
-- [Project 2 Name](link-to-project-2) - Brief description of the project.
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
