@@ -1,6 +1,6 @@
 # Hi, I'm Md. Shipon Sheikh
 
-https://media.licdn.com/dms/image/v2/D5616AQEwjKjiTFYGQg/profile-displaybackgroundimage-shrink_200_800/B56Zy6MBmrIAAg-/0/1772650241948?e=1774483200&v=beta&t=pL_z6VHpORP4gpPEf3CsdPXxAFrg9o-kES2CDwCfkqA
+https://media.licdn.com/dms/image/v2/D5616AQEwjKjiTFYGQg/profile-displaybackgroundimage-shrink_350_1400/B56Zy6MBmrIAAk-/0/1772650241948?e=1774483200&v=beta&t=n6PK376agu78F4bD2l0hKK7FIlYdblZc3LG4DNRbS2s
 
 ## About Me
 I am a Backend Developer specialized in the Python Django framework. I am an expert in building Django REST APIs. Besides development, I have strong knowledge in digital marketing, especially in SEO and Meta Ads. I also have skills in HTML, CSS, Bootstrap 5, and JavaScript.
