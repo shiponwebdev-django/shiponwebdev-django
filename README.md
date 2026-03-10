@@ -1,4 +1,6 @@
-# Hi, I'm Md. Shipon Sheikh
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Md+Shipon+Sheikh;Backend+Developer;Django+Specialistt" alt="Typing SVG" />
+</div>
 
 
 
