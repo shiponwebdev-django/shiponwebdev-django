@@ -11,5 +11,4 @@ I am a Backend Developer specialized in the Python Django framework. I am an exp
 - HTML, CSS, Bootstrap 5, JavaScript
 
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
