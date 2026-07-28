@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I am a Backend Developer specialized in the Python Django framework. I am an expert in building Django REST APIs. Besides development, I have strong knowledge in digital marketing, especially in SEO and Meta Ads. I also have skills in HTML, CSS, Bootstrap 5, and JavaScript.<br>
+💻 Python & Django Backend Developer passionate about building secure and scalable web applications. Skilled in Django, Django REST Framework, PostgreSQL, SQLite, REST APIs, Git, and GitHub. I enjoy learning new technologies and turning ideas into real-world solutions through clean and maintainable code.
 
 
 ## 🌐 Socials:
